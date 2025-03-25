@@ -1,3 +1,5 @@
+// Desenvolva um programa que aloque dinamicamente um array de n inteiros usando ponteiros, preencha-o com valores e, em seguida, libere a memória alocada.
+ 
 #include <iostream> 
 
 using namespace std;
